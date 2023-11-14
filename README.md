@@ -1,7 +1,7 @@
 # Meet the Creators  
 
 ## Creator 1  
-<img src="https://github.com/resolves-tech/creator_photos/assets/150622224/fd7e5120-7e05-44be-b320-d4a803bde052" width="300" style="border-radius: 50%;">  
+<img src="https://github.com/resolves-tech/creator_photos/assets/150622224/8b0c9335-2054-45af-ad89-a579d748a36f" width="300;">  
 
 - **Name:** Dhruva Banjan  
 - **GitHub:** [https://github.com/dhruva3223](https://github.com/dhruva3223)  
@@ -10,8 +10,7 @@
 - **CodeChef:** [https://www.codechef.com/users/thepotter](https://www.codechef.com/users/thepotter)
 
 ## Creator 2  
-<img src="https://github.com/resolves-tech/creator_photos/assets/150622224/bc6b7a63-18e1-406a-a864-df1d792be6cf)" width="300" style="border-radius: 50%;">  
-
+<img src="https://github.com/resolves-tech/creator_photos/assets/150622224/855d24a3-e128-46c9-9c8f-9b51864b14b0" width="300">  
 
 - **Name:** Shashank Kota  
 - **GitHub:** [https://github.com/prizzv](https://github.com/prizzv)  
