@@ -1,18 +1,16 @@
 # Meet the Creators  
 
-## Creator 1  
-<img src="https://github.com/resolves-tech/creator_photos/assets/150622224/8b0c9335-2054-45af-ad89-a579d748a36f" width="300;">  
+## Dhruva Banjan  
+![Dhruva](https://github.com/resolves-tech/creator_photos/assets/150622224/5a6490bd-1b47-4656-82eb-9fe4d16496d5=x250)
 
-- **Name:** Dhruva Banjan  
 - **GitHub:** [https://github.com/dhruva3223](https://github.com/dhruva3223)  
 - **LinkedIn:** [https://www.linkedin.com/in/dhruva-banjan/](https://www.linkedin.com/in/dhruva-banjan/)
 - **Leetcode:** [https://leetcode.com/dhruva3223/](https://leetcode.com/dhruva3223/)
 - **CodeChef:** [https://www.codechef.com/users/thepotter](https://www.codechef.com/users/thepotter)
 
-## Creator 2  
-<img src="https://github.com/resolves-tech/creator_photos/assets/150622224/855d24a3-e128-46c9-9c8f-9b51864b14b0" width="300">  
+## Shashank Kota   
+![Shashank](https://github.com/resolves-tech/creator_photos/assets/150622224/addc2cc5-546d-4a84-92ca-a2382be12179)
 
-- **Name:** Shashank Kota  
 - **GitHub:** [https://github.com/prizzv](https://github.com/prizzv)  
 - **LinkedIn:** [https://www.linkedin.com/in/shashankkota/](https://www.linkedin.com/in/shashankkota/)
 - **Leetcode:** [https://leetcode.com/shashank712/](https://leetcode.com/shashank712/)
